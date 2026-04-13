@@ -1,3 +1,3 @@
 Hi There! I'm a 13 year old that likes to hack chromebooks!
 I am learning javascript and shell!
-![Top Langs](https://github.com/AllenChigo)
+![Languages Used](https://github.com/AllenChigo)
