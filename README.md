@@ -1,2 +1,2 @@
 ## Hi there!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenChigo&layout=compact&langs_count=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenChigo&layout=compact&langs_count=15)
