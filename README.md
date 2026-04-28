@@ -11,4 +11,3 @@
     <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="70"/>
   </a>
 </p>
-![Quickdraw](https://shields.io)
