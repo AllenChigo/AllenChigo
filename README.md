@@ -10,3 +10,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AllenChigo&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+<p align="right">
+  <img src="https://lanyard.cnrad.dev/api/1475600405164593162?hideStatus=true&hideActivity=true&hideBadges=true"/>
+</p>
