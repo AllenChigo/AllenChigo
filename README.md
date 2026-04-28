@@ -4,10 +4,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=AllenChigo&show_icons=true&theme=tokyonight)
 <p align="center">
   <a href="https://discord.com/users/1475600405164593162">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="28"/>
+    <img src="https://img.icons8.com/color/96/discord--v2.png" width="70"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@IsChigo">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="28"/>
+    <img src="https://img.icons8.com/color/96/youtube-play.png" width="70"/>
   </a>
 </p>
