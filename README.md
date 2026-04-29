@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluency/96/reddit.png" width="60"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/chigois44651">
+  <a href="https://x.com/chigo_is44651">
     <img src="https://img.icons8.com/fluency/96/twitter.png" width="60"/>
   </a>
 </p>
