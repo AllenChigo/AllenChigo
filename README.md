@@ -10,4 +10,8 @@
   <a href="https://www.youtube.com/@IsChigo">
     <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="70"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/DecentFilm4457">
+    <img src="https://img.icons8.com/fluency/96/reddit.png" width="70"/>
+  </a>
 </p>
