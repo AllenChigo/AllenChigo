@@ -23,4 +23,4 @@
     <img src="https://img.icons8.com/fluency/96/twitter.png" width="60"/>
   </a>
 </p>
-I have a website, at https://https://allenchigo.github.io/
+I have a website, at: https://allenchigo.github.io/
