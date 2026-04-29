@@ -19,3 +19,8 @@
     <img src="https://img.icons8.com/fluency/96/github.png" width="70"/>
   </a>
 </p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/chigois44651">
+    <img src="https://img.icons8.com/fluency/96/twitter.png" width="70"/>
+  </a>
+</p>
