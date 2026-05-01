@@ -1,7 +1,6 @@
 
 ## Hi there! I'm a 13 year old that Likes to Code things, Here are my stats!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenChigo&layout=compact&langs_count=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=javascript,html)
 <p align="center">
   <a href="https://github.com/AllenChigo">
     <img src="https://img.icons8.com/fluency/96/github.png" width="60"/>
