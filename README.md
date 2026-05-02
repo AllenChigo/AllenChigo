@@ -22,4 +22,4 @@
     <img src="https://img.icons8.com/fluency/96/twitter.png" width="60"/>
   </a>
 </p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
