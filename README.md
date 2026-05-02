@@ -22,3 +22,5 @@
     <img src="https://img.icons8.com/fluency/96/twitter.png" width="60"/>
   </a>
 </p>
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
