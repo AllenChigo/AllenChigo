@@ -36,7 +36,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" />
 </p>
-
-<p align="center">
-  <img src="image4-overlay.png" alt="Overlay Image" width="600">
-</p>
